@@ -73,3 +73,5 @@ launch_compute_energy(d_pos, d_mom, d_mass, d_energy, N);
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
